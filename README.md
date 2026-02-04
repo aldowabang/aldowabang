@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+I am Ronaldo Eka Putra Wabang, a D3 graduate in Computer Engineering and Networking from Kupang State Polytechnic.
+I have professional experience covering web development using technologies such as HTML, CSS, JavaScript, PHP, MySQL, and Laravel, Codeigniter, React, Node.js, Next.js, Ruby On Rails as well as expertise in IT support, technical troubleshooting, and network maintenance.
 
 
 ## 🌐 Socials:
